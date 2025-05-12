@@ -1,47 +1,46 @@
-## Hi there 👋
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1nxov&layout=compact)
-**v1nxov/v1nxov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm v1nxov 👋
 
-👋 Hey there, I'm v1nxov!
-Welcome to my GitHub! I'm a passionate developer crafting clean, efficient, and innovative solutions. Inspired by sleek designs and functional code, I build projects that make an impact. 🚀
+## 🚀 About Me
 
-🌟 About Me
+- 💻 Passionate about software development and building creative projects
+- 🌱 Currently working on my portfolio and expanding my skills
+- 📫 How to reach me: [@v1nxov_dev](https://t.me/v1nxov_dev) on Telegram
 
-💻 Full-stack developer with a love for modern web technologies
-🌍 Based in New York
-🎯 Currently exploring Web Deveopment 
-📚 Always learning and sharing knowledge
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
+![Sass](https://img.shields.io/badge/-Sass-333?style=flat&logo=sass)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logo=rust)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333?style=flat&logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat&logo=supabase)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![Webpack](https://img.shields.io/badge/-Webpack-333?style=flat&logo=webpack)
+
+## 📈 GitHub Stats
+
+![v1nxov's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1nxov&show_icons=true&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1nxov&layout=compact&theme=radical) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1nxov&theme=radical)
 
 
-🛠️ Skills
-
-
-🚀 Featured Projects
-
-[Project Name]A brief description of your project. What does it do? Why is it cool?🔗 [Link to Repo] | 🛠️ Tech: [e.g., React, Node.js]
-
-[Project Name]Another awesome project. Highlight its key features or impact.🔗 [Link to Repo] | 🛠️ Tech: [e.g., Python, Docker]
-
-
-(Add your projects here!)
-
-📊 GitHub Stats
-
-
-📬 Connect with Me
-
-
-Built with 💡 and ☕ | Always open to collaboration!
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
